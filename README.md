@@ -1,10 +1,10 @@
 #instale as bibliotecas
-pip install import openpyxl
-pip install webbrowser
-pip install pyautogui
+#pip install import openpyxl
+#pip install webbrowser
+#pip install pyautogui
 
 #Encontre o diretório correto
-cd c:/caminho
+#cd c:/caminho
 
 #rode o programa
-python ChatBot.py
+#python ChatBot.py
