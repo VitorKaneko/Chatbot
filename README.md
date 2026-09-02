@@ -1,15 +1,21 @@
-#instale as bibliotecas
+# ChatBot Automatizado em Python
 
-#pip install import openpyxl
+Um script de automação e interação desenvolvido em Python.
 
-#pip install webbrowser
+##Pré-requisitos
 
-#pip install pyautogui
+Certifique-se de ter o Python instalado em sua máquina. 
 
-#Encontre o diretório correto
+## Instalação das Dependências
 
-#cd c:/caminho
+Abra o seu terminal ou prompt de comando e instale as bibliotecas externas necessárias executando o seguinte comando:
 
-#rode o programa
+pip install openpyxl pyautogui
 
-#python ChatBot.py
+##Como Executar
+
+cd c:/caminho/diretório
+
+##Execute no terminal
+
+python ChatBot.py
